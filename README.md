@@ -59,10 +59,11 @@ Voici des exemples de jeux pour ce type de jeu :
 
 ## Jeu de _Platformer_
 
-Attention! Avec les travaux actuels du cours, pour qu'un platformer soit accepté, il devra y avoir beaucoup de fonctionnalités et de créativité dans le jeu. Par exemple, il devra y avoir des menus, des power-ups, des arbres de talent, une forte emphase sur le côté coopératif/multijoueurs, etc.
+Attention! Avec les travaux actuels du cours, pour qu'un platformer soit accepté, il devra y avoir beaucoup de fonctionnalités et de créativité dans le jeu. Par exemple, il devra y avoir des menus, des power-ups, des arbres de talent, intéraction avec l'environnement, une forte emphase sur le côté coopératif/multijoueurs, etc.
 
 Voici des exemples de jeux pour ce type de jeu :
 * Megaman X
+* Ori and the Blind Forest
 * Plok
 * Salt and Sanctuary
 * Super Metroid
