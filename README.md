@@ -62,6 +62,7 @@ Voici des exemples de jeux pour ce type de jeu :
 Attention! Avec les travaux actuels du cours, pour qu'un platformer soit accepté, il devra y avoir beaucoup de fonctionnalités et de créativité dans le jeu. Par exemple, il devra y avoir des menus, des power-ups, des arbres de talent, intéraction avec l'environnement, une forte emphase sur le côté coopératif/multijoueurs, etc.
 
 Voici des exemples de jeux pour ce type de jeu :
+* Jelly Car
 * Megaman X
 * Metal Storm (NES)
 * Ori and the Blind Forest
