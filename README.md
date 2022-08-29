@@ -63,7 +63,9 @@ Attention! Avec les travaux actuels du cours, pour qu'un platformer soit accept√
 
 Voici des exemples de jeux pour ce type de jeu :
 * Megaman X
+* Metal Storm (NES)
 * Ori and the Blind Forest
+* Overloop
 * Plok
 * Salt and Sanctuary
 * Super Metroid
